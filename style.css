@@ -35,6 +35,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 50%;
+    max-width: 100%;
 
 }
 
